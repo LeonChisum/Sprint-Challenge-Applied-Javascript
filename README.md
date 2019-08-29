@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+The Document Object Model is the templete that reads and copy the HTML of the website and arranges the nodes like a tree that allows for manipulation and other functionality.
+
 2. What is an event?
+
+An event is anything that happens to the DOM after the DOM reads the intial file of the HTML. Usually some type of responsiveness from the client.
 
 3. What is an event listener?
 
+An event listener is a method that takes an event input followed by a call back function to be ran whenever that event takes place specifically to the DOM element(s) selected.
+
 4. Why would we convert a NodeList into an Array?
 
+We would convert a NodeList into an Array to gain all of the properties and methods availiale to Arrays for manipulation.
+
 5. What is a component?
+
+A component is a structed piece of something greater that is used as a templete for keeping your code DRY and easily readable.
 
 ### Git Set up
 
